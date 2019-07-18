@@ -1,4 +1,5 @@
-<scripting
 
-
+    <script>
+        alert('Hello world!');
+    </script>
 
